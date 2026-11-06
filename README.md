@@ -2,7 +2,7 @@
 
 Scrapes a Zendesk help center into clean Markdown and keeps a Gemini File Search store in sync, uploading only what changed. The store backs a support assistant that answers with cited article URLs.
 
-**Daily job logs:** TODO_LINK_TO_ACTIONS_RUNS
+**Daily job logs:** [all runs](https://github.com/hieubm1707/halyard-kb/actions/workflows/daily-sync.yml) · [latest verified run](https://github.com/hieubm1707/halyard-kb/actions/runs/42184836812) (`added=0 updated=0 skipped=398`)
 
 ![Assistant answering with citations](docs/assistant-answer.png)
 
