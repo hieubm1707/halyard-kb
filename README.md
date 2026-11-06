@@ -6,6 +6,8 @@ Scrapes a Zendesk help center into clean Markdown and keeps a Gemini File Search
 
 ![Assistant answering with citations](docs/assistant-answer.png)
 
+_Screenshot from `ask.py`, which runs the assistant's exact configuration: the system prompt in `docs/system-prompt.txt` plus File Search over the synced store._
+
 ## Setup
 
 Needs Python 3.12 or Docker, and a Gemini API key from Google AI Studio.
